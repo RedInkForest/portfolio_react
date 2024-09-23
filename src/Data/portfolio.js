@@ -27,6 +27,6 @@ export default [
         title: "This Website",
         imgUrl: '/assets/portfolio.png',
         stack: ['HTML', 'CSS', 'JavaScript', 'React', 'Tailwind', 'Vite'],
-        link: ''
+        link: 'https://github.com/RedInkForest/portfolio_react'
     }
 ]
