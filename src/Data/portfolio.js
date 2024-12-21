@@ -1,5 +1,23 @@
 export default [
     {
+        title: "CoogBay",
+        imgUrl: '',
+        stack: ['HTML', 'TailwindCSS', 'CSS', 'Github/Git', 'Next.js', 'React'],
+        link: 'https://github.com/armaanamatya/UH_student_marketplace'
+    },
+    {
+        title: "Charlotte's Mansion",
+        imgUrl: '',
+        stack: ['GoDot', 'GDScript', 'Github/Git'],
+        link: 'https://github.com/Shadha-K/Charlottes-Mansion'
+    },
+    {
+        title:'Toxic Classification System',
+        imgUrl: '',
+        stack: ['Python', 'SQL', 'PostgreSQL','PyTorch'],
+        link: 'https://github.com/RedInkForest/toxicClassifier'
+    },
+    {
         title: "Mind Palace",
         imgUrl: '/assets/mind_palace.png',
         stack: ['HTML', 'CSS', 'Supabase', "TailwindCSS", 'Typescript', 'Sveltekit', 'Github/Git'],
